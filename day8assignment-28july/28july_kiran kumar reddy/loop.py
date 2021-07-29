@@ -1,0 +1,17 @@
+# for i in range(1,15):
+#     if i==5:
+#         break
+#     else:
+#         print(i)
+
+# for i in range(1,15):
+#     if i==6:
+#         continue
+#     else:
+#         print(i)
+
+
+for i in range(1,15):
+    if i==5:
+        pass
+    print(i,)
